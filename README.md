@@ -1,0 +1,2 @@
+# Smeg-AI
+Hackathon Code
